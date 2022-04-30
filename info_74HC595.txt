@@ -1,0 +1,5 @@
+L'integrato 74HC595 grazie a 3 bit di input consente di gestirne 8 in output.
+Pin digitali richiesti: 3
+Pin digitali generati:  8 (guadagno di 5 pin)
+
+Può essere (ovviamente) collegato in seria ad altri 74HC595.
